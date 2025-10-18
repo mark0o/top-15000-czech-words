@@ -1,2 +1,2 @@
-# top-15000-czech-words
-Data scraped from the ČNK website.
+# Top 15,000 czech words
+Data was scraped from the [ČNK website](https://www.korpus.cz/lists/).
